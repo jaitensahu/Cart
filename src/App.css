@@ -1,0 +1,7 @@
+.allProductContainer{
+    margin-top: 100px;
+    /* text-align: center; */
+}
+.allProductContainer > h1{
+    text-align: center;
+}

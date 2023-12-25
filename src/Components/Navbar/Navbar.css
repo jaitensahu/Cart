@@ -1,0 +1,35 @@
+header{
+    background-color: rgb(255, 120, 120);
+    width: 100%;
+}
+nav{
+    width: 100%;
+    max-width: 1100px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: space-between;
+    padding: 5px 30px;
+}
+nav h1{
+    font-weight: lighter;
+    font-size: 34px;
+}
+nav i{
+    font-size: 28px;
+}
+.cart{
+    position: relative;
+}
+.cart p{
+    position: absolute;
+    top: -18px;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    /* background-color: aliceblue; */
+    padding: 0;
+    margin: 0;
+    left: 22px;
+
+}

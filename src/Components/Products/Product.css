@@ -1,0 +1,26 @@
+.ProductContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+}
+.productData{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cartValue{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    flex-grow: 0.6;
+}
+.productData img{
+    width: 70px;
+}
+.title-price h1{
+    /* background-color: aqua; */
+}
