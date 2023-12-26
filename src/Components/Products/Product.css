@@ -24,3 +24,6 @@
 .title-price h1{
     /* background-color: aqua; */
 }
+#prodID{
+    display: none;
+}
